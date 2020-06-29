@@ -53,7 +53,7 @@ require_once "Header.php";
                                     <p class="small text-uppercase mb-0 ">Años de programador</p>
                                 </div>
                                 <div class="col-sm-4 text-center border-left border-right ">
-                                    <p class="font-weight-bold mb-0 ">5</p>
+                                    <p class="font-weight-bold mb-0 ">4</p>
                                     <p class="small text-uppercase mb-0 ">Lenguajes</p>
                                 </div>
                                 <div class="col-sm-4 text-center ">
